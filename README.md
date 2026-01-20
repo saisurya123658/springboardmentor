@@ -67,8 +67,6 @@ The model outputs win and loss probabilities using `predict_proba`.
 ## ▶️ How to Run Locally
 
 1. Clone the repository
-
-```bash
 git clone https://github.com/singhshrasti/IPL-Win-Probability-Predictor.git
 cd IPL-Win-Probability-Predictor
 
