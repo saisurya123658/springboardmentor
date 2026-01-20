@@ -72,14 +72,14 @@ The model outputs win and loss probabilities using `predict_proba`.
 git clone https://github.com/singhshrasti/IPL-Win-Probability-Predictor.git
 cd IPL-Win-Probability-Predictor
 
-2. Create and activate virtual environment (optional but recommended)
+### 2. Create and activate virtual environment (optional but recommended)
 python -m venv venv
 venv\Scripts\activate   # On Windows
 
-3. Install dependencies
+### 3. Install dependencies
 pip install -r requirements.txt
 **
-4. Run the Streamlit app
+### 4. Run the Streamlit app
 streamlit run app.py
 Open in browser:
 http://localhost:8501
